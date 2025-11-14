@@ -11,7 +11,7 @@ This is a basic Web app for learning and practicing ASP.NET, MVC architecture, s
 The tables are as follows:
 * Books
 * OrderItems 
-* Orders tables
+* Orders
 
 # Models 
 Beside those correlated with DB tables, there are the following models:
